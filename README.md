@@ -6,20 +6,21 @@
 
 ## Main Projects
 
-### Last of penguin runnng
+### Last of penguin Runnng
 ##### [2학년], [Gitlab에 위치], [소스코드 일부 공개 외 리소스 공개 불가]
+##### [Link to repository](https://github.com/mingyeol07/Last_of_penguin_Runnng_scripts)
 - - -
 ### Sound of slash
 ##### [1학년], [공개 불가]
 - - -
-### Zombie-high-school imitation
-##### [2학년]
+### Zombie high school system
+##### [Link to repository](https://github.com/mingyeol07/Zombie_high_school_system)
 - - -
-### Double Trouble
-##### [2학년]
+### Double trouble
+##### [Link to repository](https://github.com/mingyeol07/Double_trouble)
 - - -
-### Puzzle Bubble
-##### [2학년]
+### Puzzle bobble
+##### [Link to repository](https://github.com/mingyeol07/Puzzle_bobble)
 <!--
 **mingyeol07/mingyeol07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
