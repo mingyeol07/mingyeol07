@@ -1,5 +1,8 @@
 ## 안녕하세요 XD
 
+#### Projects
+## Last of penguin
+# [1학년]
 <!--
 **mingyeol07/mingyeol07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
