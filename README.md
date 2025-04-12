@@ -16,6 +16,6 @@
 
 - 🧟 **Zombie High School System**  
 
-- 🛩️ **Double Trouble**  
+- 🫧 **Puzzle Bobble**  
 
-- 🫧 **Puzzle Bobble (Clone)**  
+- 🛩️ **Double Trouble**  
